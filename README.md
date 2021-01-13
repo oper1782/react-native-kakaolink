@@ -1,5 +1,5 @@
 # react-native-kakaolink
-
+카카오 V2버전으로 만들어져있기 때문에 native code는 kotlin과 swift로 되어있음.
 
 # 초기세팅
 - Android
@@ -30,3 +30,4 @@ app.js에 KakaoLinkModule.init() 추가.
     {key:value}//버튼으로 앱 실행시 받을 수 있는 데이터
   )
   </code></pre>
+  
